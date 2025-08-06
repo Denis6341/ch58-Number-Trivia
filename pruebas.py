@@ -35,3 +35,4 @@ print("Informacion de la trivia", trivia)
 print("Mensaje de la trivia:", trivia['text'])
 # acceder al valor de la clave 'number' en el JSON
 print("Número de la trivia:", trivia['number'])
+"""
