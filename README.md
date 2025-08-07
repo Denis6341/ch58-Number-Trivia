@@ -19,6 +19,15 @@ El proyecto fue desarrollado como parte de una práctica formativa en el área d
 
 ---
 
+🌐 API utilizada
+NumbersAPI: Provee datos curiosos en múltiples formatos (texto plano, JSON) sobre números.
+
+📄 Licencia
+Este proyecto se distribuye bajo la licencia MIT.
+
+✨ Autoría
+Proyecto desarrollado como parte de una práctica de programación en Python para aprender sobre APIs y automatización de pruebas.
+
 ## ⚙️ Requisitos
 
 - Python 3.7 o superior
@@ -28,12 +37,3 @@ Para instalar la librería necesaria:
 
 ```bash
 pip install requests
-
-🌐 API utilizada
-NumbersAPI: Provee datos curiosos en múltiples formatos (texto plano, JSON) sobre números.
-
-📄 Licencia
-Este proyecto se distribuye bajo la licencia MIT.
-
-✨ Autoría
-Proyecto desarrollado como parte de una práctica de programación en Python para aprender sobre APIs y automatización de pruebas.
